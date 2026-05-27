@@ -1,0 +1,27 @@
+# Config / secrets
+settings.yaml
+.env
+*.env
+
+# Logs
+logs/
+*.log
+
+# Executable files
+one-api.exe
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Cache / outputs
+cache/
+tmp/
+temp/
+output/
+outputs/
+results/
